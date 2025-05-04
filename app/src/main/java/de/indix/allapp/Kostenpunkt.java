@@ -1,3 +1,5 @@
+package de.indix.allapp;
+
 @Entity
 public class Kostenpunkt {
     @PrimaryKey(autoGenerate = true)
