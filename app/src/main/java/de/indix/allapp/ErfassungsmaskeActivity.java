@@ -10,8 +10,8 @@ import androidx.lifecycle.ViewModelProvider;
 import java.util.ArrayList;
 import java.util.List;
 
-import de.indix.allapp.viewmodel.KostenpunktViewModel;
-import de.indix.allapp.model.Kostenpunkt;
+import de.indix.allapp.KostenpunktViewModel;
+import de.indix.allapp.Kostenpunkt;
 
 
 public class ErfassungsmaskeActivity extends AppCompatActivity {
