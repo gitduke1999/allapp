@@ -46,6 +46,8 @@ dependencies {
     annotationProcessor("androidx.room:room-compiler:2.6.1")
     implementation("androidx.room:room-ktx:2.6.1") // Optional für ViewModel/Livedata Support
 
+    implementation("androidx.recyclerview:recyclerview:1.3.1")
+
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
