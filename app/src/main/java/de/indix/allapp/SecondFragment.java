@@ -9,8 +9,6 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.navigation.fragment.NavHostFragment;
 
-import de.indix.allapp.FragmentSecondBinding;
-
 public class SecondFragment extends Fragment {
 
     private FragmentSecondBinding binding;
