@@ -10,9 +10,9 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import de.indix.allapp.data.AppDatabase;
-import de.indix.allapp.data.KostenpunktDao;
-import de.indix.allapp.model.Kostenpunkt;
+import de.indix.allapp.AppDatabase;
+import de.indix.allapp.KostenpunktDao;
+import de.indix.allapp.Kostenpunkt;
 
 
 public class KostenpunktViewModel extends AndroidViewModel {
