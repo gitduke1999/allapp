@@ -7,8 +7,8 @@ import androidx.lifecycle.ViewModelProvider;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import de.indix.allapp.viewmodel.KostenpunktViewModel;
-import de.indix.allapp.adapter.KostenpunktAdapter;
+import de.indix.allapp.KostenpunktViewModel;
+import de.indix.allapp.KostenpunktAdapter;
 
 
 public class ÜbersichtActivity extends AppCompatActivity {
