@@ -8,7 +8,7 @@ import androidx.lifecycle.ViewModelProvider;
 
 import java.util.Map;
 
-import de.indix.allapp.viewmodel.KostenpunktViewModel;
+import de.indix.allapp.KostenpunktViewModel;
 
 public class MonatskostenActivity extends AppCompatActivity {
     TextView textView;
