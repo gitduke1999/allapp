@@ -7,9 +7,9 @@ import androidx.room.Room;
 import androidx.room.RoomDatabase;
 import androidx.room.TypeConverters;
 
-import de.indix.allapp.model.Kostenpunkt;
-import de.indix.allapp.model.MonatsConverter;
-import de.indix.allapp.data.KostenpunktDao; 
+import de.indix.allapp.Kostenpunkt;
+import de.indix.allapp.MonatsConverter;
+import de.indix.allapp.KostenpunktDao; 
 
 
 @Database(entities = {Kostenpunkt.class}, version = 1)
