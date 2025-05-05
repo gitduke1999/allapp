@@ -13,7 +13,7 @@ import androidx.navigation.Navigation;
 import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
-import de.indix.allapp.databinding.ActivityMainBinding;
+import de.indix.allapp.ActivityMainBinding;
 
 import android.view.Menu;
 import android.view.MenuItem;
