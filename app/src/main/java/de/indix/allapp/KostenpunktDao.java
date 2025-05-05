@@ -9,7 +9,7 @@ import androidx.room.Update;
 
 import java.util.List;
 
-import de.indix.allapp.model.Kostenpunkt; 
+import de.indix.allapp.Kostenpunkt; 
 
 
 @Dao
