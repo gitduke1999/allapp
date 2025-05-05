@@ -9,7 +9,7 @@ import androidx.room.Update;
 
 import java.util.List;
 
-import your.package.name.model.Kostenpunkt; // Passe das Package an
+import de.indix.allapp.model.Kostenpunkt; 
 
 
 @Dao
