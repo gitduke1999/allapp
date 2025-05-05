@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText android:id="@+id/nameInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Name" />
+
+    <EditText android:id="@+id/kategorieInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Kategorie" />
+
+    <EditText android:id="@+id/tagInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Abbuchungstag" />
+
+    <EditText android:id="@+id/betragInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Betrag" />
+
+    <EditText android:id="@+id/monateInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Abbuchungsmonate (z.B. 1,2,3)" />
+
+    <Button android:id="@+id/speichernButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Speichern" />
+</LinearLayout>
